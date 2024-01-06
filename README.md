@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate Software Engineer and Graphic Design Enthusiast from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamghosh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamghosh-dev" /> </p>
+
 - 🔭 I’m currently working on **Mess Management System (Personal Project)**
 
 - 🌱 I’m currently learning **Network Security and Deeply diving into Mobile Development**
